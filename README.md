@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lionaom) -->
+<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Lionaom&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionaom&hide=TeX&layout=compact)
+-->
 
 <!--START_SECTION:waka-->
 ```text
