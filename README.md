@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lionaom) -->
 
 <!--START_SECTION:waka-->
+```text
+Week: 25 January, 2022 - 01 February, 2022
+
+Go           2 hrs 13 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.01 % 
+Vue.js       1 hr 4 mins     ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.08 % 
+Markdown     9 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.37 % 
+```
 <!--END_SECTION:waka-->
